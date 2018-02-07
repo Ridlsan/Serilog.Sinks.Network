@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Serilog.Sinks.Network</id>
-    <title>Serilog Sinks Network</title>
-    <version>0.0.0</version>
-    <authors>Paul D'Ambra</authors>
+    <id>Serilog.Sinks.Network.Signed</id>
+    <title>Serilog Sinks Network Signed</title>
+    <version>1.2.0.49</version>
+    <authors>Paul D'Ambra, Stanislav "Ridlsan" Sidorov</authors>
     <owners>Paul D'Ambra</owners>
     <licenseUrl>https://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
-    <projectUrl>http://github.com/pauldambra/Serilog.Sinks.Network</projectUrl>
+    <projectUrl>http://github.com/Ridlsan/Serilog.Sinks.Network.Signed</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>An adaptation of the Apache licensed Splunk network sink for Serilog that doesn't require Splunk.</description>
+    <description>An adaptation of the Apache licensed Splunk network sink for Serilog that doesn't require Splunk. Signed version</description>
     <dependencies>
       <dependency id="Serilog" version="[2,3)" />
     </dependencies>
